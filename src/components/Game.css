@@ -1,0 +1,21 @@
+.card {
+  /* background-color: blue; */
+  margin: 10px 0;
+  padding: 10px;
+  /* border: 1px rgb(123, 123, 123) solid; */
+  border-radius: 5px;
+  box-shadow: 0px 12px 15px 1px rgba(0, 0, 255, 0.2);
+}
+.contentGlobal {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.imgGame {
+  width: 450px;
+}
+.infoGlob {
+  display: flex;
+  justify-content: space-around;
+  padding: 10px 0;
+}
